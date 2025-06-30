@@ -4,7 +4,7 @@ This project classifies emotions in tweets using LSTM, CNN, GRU, and ensemble mo
 
 ---
 
-## 💡 Overview
+## Overview
 
 - Multi-class classification: 6 emotion categories (e.g., joy, anger, sadness)
 - Built and compared LSTM, CNN, and GRU models
@@ -13,7 +13,7 @@ This project classifies emotions in tweets using LSTM, CNN, GRU, and ensemble mo
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 | Model   | Accuracy |
 |---------|----------|
@@ -24,16 +24,16 @@ This project classifies emotions in tweets using LSTM, CNN, GRU, and ensemble mo
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
-- Python 3.x
+- Python 
 - TensorFlow / Keras
 - NLTK, Scikit-learn
 - Matplotlib, Seaborn
 
 ---
 
-## 📁 Structure
+## Structure
 
 - `notebooks/`: Full workflow in Jupyter notebooks
 - `src/`: Helper modules for preprocessing and training
@@ -42,7 +42,7 @@ This project classifies emotions in tweets using LSTM, CNN, GRU, and ensemble mo
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo
 2. Install dependencies:  
