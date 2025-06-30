@@ -1,6 +1,6 @@
 # Multi-Class Emotion Detection with Deep Learning
 
-This project classifies emotions in tweets using LSTM, CNN, GRU, and ensemble models. It covers the full NLP pipeline—from preprocessing to model training and evaluation—achieving up to **92.5% accuracy**.
+This group project classifies emotions in tweets using LSTM, CNN, GRU, and ensemble models. It covers the full NLP pipeline—from preprocessing to model training and evaluation—achieving up to **92.5% accuracy**.
 
 ---
 
